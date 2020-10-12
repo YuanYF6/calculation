@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="自动生成四则题目:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="root">
+      <element id="archive" name="自动生成四则题目.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="自动生成四则题目" />
+      </element>
+    </root>
+  </artifact>
+</component>
